@@ -50,6 +50,18 @@ const logoIconsList = [
   {
     imgPath: "/images/logos/hobby2.png",
   },
+  {
+    imgPath: "/images/logos/hobby3.png",
+  },
+  {
+    imgPath: "/images/logos/hobby4.png",
+  },
+  {
+    imgPath: "/images/logos/hobby1.png",
+  },
+  {
+    imgPath: "/images/logos/hobby2.png",
+  },
 ];
 
 const abilities = [
